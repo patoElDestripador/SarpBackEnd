@@ -1,0 +1,16 @@
+{
+  "name": "sarpbackend",
+  "version": "1.0.0",
+  "description": "Este es el backend piloto de sarp se encarga de simular un api rest esta version cuenta con rutas integradas para manipulacion de archivos pero esta opcion esta inhabilitada por concurso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "json-server -w ./data/data.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
