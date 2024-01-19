@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "json-server -w ./data/data.json"
+    "dev": "json-server ./data/data.json"
   },
   "keywords": [],
   "author": "",
