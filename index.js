@@ -2,8 +2,6 @@ const jsonServer = require('json-server');
 const db = jsonServer.router("/data/data.json")
 const port = 3001
 
-
-
 const server = jsonServer.create();
 
 // Configura el servidor
