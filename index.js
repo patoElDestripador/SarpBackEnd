@@ -1,4 +1,4 @@
-const jsonServer = require('json-server');
+/* const jsonServer = require('json-server');
 const db = jsonServer.router("/data/data.json")
 const port = 3001
 
@@ -31,3 +31,4 @@ server.use(jsonServer.sorting({'/post': 'id'}));
 server.listen(port, () => {
   console.log('El servidor está escuchando en el puerto 3000');
 });
+ */
