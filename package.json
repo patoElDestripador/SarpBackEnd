@@ -7,11 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "json-server -w ./data/db.json"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["sarp","riwiPoints","riwi","macondo","sarpbackend"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patoElDestripador/sarp.git"
+  },
+  "author": "patoElDestripador",
+  "contributors": [
+    "Co-Autor Andres Felipe Patiño",
+    "Co-Autor Daniel Torres Monsalve",
+    "Co-Autor Johan Sebastian Arboleda Mazo"
+  ],
   "dependencies": {
     "json-serve": "^0.1.0",
     "json-server": "^1.0.0-alpha.21"
-  }
+  },
+  "license": "ISC"
 }
