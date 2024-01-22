@@ -2585,86 +2585,86 @@
     [
       {
        "Clanes": 1,
-       "Column2": "Tesla",
-       "Column3": "18/01/2023",
-       "Column4": true
+       "nombre": "Tesla",
+       "fecha_creacion": "18/01/2023",
+       "estado": true
       },
       {
        "Clanes": 2,
-       "Column2": "IOS",
-       "Column3": "18/01/2023",
-       "Column4": true
+       "nombre": "IOS",
+       "fecha_creacion": "18/01/2023",
+       "estado": true
       },
       {
        "Clanes": 3,
-       "Column2": "Linux",
-       "Column3": "18/01/2023",
-       "Column4": true
+       "nombre": "Linux",
+       "fecha_creacion": "18/01/2023",
+       "estado": true
       },
       {
        "Clanes": 4,
-       "Column2": "windows",
-       "Column3": "18/01/2023",
-       "Column4": true
+       "nombre": "windows",
+       "fecha_creacion": "18/01/2023",
+       "estado": true
       }
      ]
    ],
    "roles":[
     {
      "roles": 1,
-     "Column2": "estudiante",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "estudiante",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "roles": 2,
-     "Column2": "trainer",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "trainer",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "roles": 3,
-     "Column2": "admin",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "admin",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     }
    ],
    "areas":[
     {
      "areas": 1,
-     "Column2": "Desarrollo de software",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Desarrollo de software",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "areas": 2,
-     "Column2": "Review",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Review",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "areas": 3,
-     "Column2": "Habilidades para la vida",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Habilidades para la vida",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "areas": 4,
-     "Column2": "Inglés",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Inglés",
+     "fecha_creacion": "18/01/2024",
+     "estado": true
     },
     {
      "areas": 5,
-     "Column2": "Coordinación y cultura",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Coordinación y cultura",
+     "fecha_creacion": "18/01/2024",
+     "estado": false
     },
     {
      "areas": 6,
-     "Column2": "Cultura y Permanencia",
-     "Column3": "18/01/2024",
-     "Column4": true
+     "nombre": "Cultura y Permanencia",
+     "fecha_creacion": "18/01/2024",
+     "estado": false
     }
    ]
 }
