@@ -1652,11 +1652,15 @@
   ],
   "trainers": [
     {
+      "id": "1",
       "id_user": 216,
-      "id_area": "1",
-      "document": "",
-      "name": "",
-      "id": "1"
+      "id_area": 3,
+      "document": "1000000216",
+      "name": "juan Pablo Ruiz",
+      "date_created": "25/01/2024",
+      "date_retirement": "null",
+      "points_available": 20,
+      "status": true
     },
     {
       "id": "2",
