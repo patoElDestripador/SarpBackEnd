@@ -1654,9 +1654,9 @@
     {
       "id": "1",
       "id_user": 216,
-      "id_area": 4,
+      "id_area": 3,
       "document": "1000000216",
-      "name": "AlejandroTorres Sánchez",
+      "name": "LJuan carrillo",
       "date_created": "25/01/2024",
       "date_retirement": "null",
       "points_available": 20,
@@ -1731,304 +1731,304 @@
   ],
   "users": [
     {
-      "email": "",
-      "password": "",
-      "img": "",
-      "id": "1"
+      "id": "1",
+      "email": "Correo1@gmail.com",
+      "password": "12345678",
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
     },
     {
       "id": "2",
       "email": "MateoGarcíaLópez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
     },
     {
       "id": "3",
       "email": "IsabellaTorresFernández@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-26.jpg"
     },
     {
       "id": "4",
       "email": "SantiagoGómezRodríguez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-115a14d698bb17871166304d65f2e6ca.jpg"
     },
     {
       "id": "5",
       "email": "EmmaHernándezPérez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/jvplshl7zo4a1.jpg"
     },
     {
       "id": "6",
       "email": "LeonardoSánchezGonzález@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/46.jpg"
     },
     {
       "id": "7",
       "email": "ValentinaRamírezDíaz@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/jvplshl7zo4a1.jpg"
     },
     {
-      "id": "8",
-      "email": "SebastiánÁlvarezJiménez@gmail.com",
+      "email": "JuanÁlvarezJiménez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-56.jpg",
+      "id": "8"
     },
     {
       "id": "9",
       "email": "MiaMorenoRomero@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/ufxv12m5szja1.jpg"
     },
     {
       "id": "10",
       "email": "AlejandroCastilloFlores@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-114d855f8d9124f971aad3997c14a394.jpg"
     },
     {
       "id": "11",
       "email": "LucíaVázquezOrtiz@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/uvglersjmw1a1.jpg"
     },
     {
       "id": "12",
       "email": "DiegoMedinaMéndez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1160237519f4b146b6fd34e5d550e056.jpg"
     },
     {
       "id": "13",
       "email": "OliviaGuerreroMendoza@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qn40j2bsg57a1.jpg"
     },
     {
       "id": "14",
       "email": "DanielRíosGuzmán@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-8.jpg"
     },
     {
       "id": "15",
       "email": "MartinaDelgadoReyes@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-66.jpg"
     },
     {
       "id": "16",
       "email": "GabrielMolinaHerrera@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-65.jpg"
     },
     {
       "id": "17",
       "email": "JuliaCórdobaAguilar@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/eskl5wgbo56a1.jpg"
     },
     {
       "id": "18",
       "email": "CarlosCruzDomínguez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/nhf276s730ga1.jpg"
     },
     {
       "id": "19",
       "email": "AndreaRosalesMarín@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "https://www.marketingtool.online/en/face-generator/img/faces/avatar-11534475abb737c6deddc184b5e67ac3.jpg"
     },
     {
       "id": "20",
       "email": "NicolásNavarroCervantes@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-41.jpg"
     },
     {
       "id": "21",
       "email": "AnaRubioCabrera@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-11.jpg"
     },
     {
       "id": "22",
       "email": "DavidAlvaradoVargas@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-115a14d698bb17871166304d65f2e6ca.jpg"
     },
     {
       "id": "23",
       "email": "CamilaFuentesIbarra@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-49.jpg"
     },
     {
       "id": "24",
       "email": "JoséSolísUrbina@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-11cb72630b4c5f56e69f981c6937e123.jpg"
     },
     {
       "id": "25",
       "email": "NataliaContrerasSoto@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/MarketingToolOnline02.jpg"
     },
     {
       "id": "26",
       "email": "ÁngelLunaSalazar@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1186e4de84515ed89938091cfd881637.jpg"
     },
     {
       "id": "27",
       "email": "SaraVelázquezCarmona@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-11bcb58eefa1d713df251c013de8fdd7.jpg"
     },
     {
       "id": "28",
       "email": "MarcoSaavedraEspinoza@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/14.jpg"
     },
     {
       "id": "29",
       "email": "ElenaParedesCáceres@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/o1othvm5pc7a1.jpg"
     },
     {
       "id": "30",
       "email": "LuisMoraGodoy@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-115320664bc3d2e7437ea415a55e8de1.jpg"
     },
     {
       "id": "31",
       "email": "CarlaVegaMaldonado@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/31.jpg"
     },
     {
       "id": "32",
       "email": "AdriánGallegosBarajas@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/gxbajekyns1a1.jpg"
     },
     {
       "id": "33",
       "email": "PatriciaNúñezCoronado@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-46.jpg"
     },
     {
       "id": "34",
       "email": "AlejandroOrozcoVillalobos@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1142ff7c1012530aa8da871173acccac.jpg"
     },
     {
       "id": "35",
       "email": "MarianaValdésZavala@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/bfz012e4xi2a1.jpg"
     },
     {
       "id": "36",
       "email": "FernandoFrancoAndrade@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1175956a2f7bc09b9e631de0aa3c7d26.jpg"
     },
     {
       "id": "37",
       "email": "DanielaRojasAlmanza@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/1fwvl8m5szja1.jpg"
     },
     {
       "id": "38",
       "email": "JavierAndradeNava@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1158aa8dcdeffdc9e21ca9c75bd81de7.jpg"
     },
     {
       "id": "39",
       "email": "LorenaMéndezArroyo@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-9.jpg"
     },
     {
       "id": "40",
       "email": "EstebanGallardoCordero@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/08k2uujcyzfa1.jpg"
     },
     {
       "id": "41",
       "email": "ClaudiaSalasTrejo@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/eskl5wgbo56a1.jpg"
     },
     {
       "id": "42",
       "email": "RafaelMontoyaRendón@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/image.12327.2992523.jpg"
     },
     {
       "id": "43",
       "email": "PaulaRivasAlcaraz@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/44.jpg"
     },
     {
       "id": "44",
       "email": "IvánSalgadoBernal@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-33.jpg"
     },
     {
       "id": "45",
       "email": "VictoriaLeónSánchez@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-46.jpg"
     },
     {
       "id": "46",
       "email": "ErnestoLugoMontes@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1158aa8dcdeffdc9e21ca9c75bd81de7.jpg"
     },
     {
       "id": "47",
       "email": "LauraCamposGalván@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/pdkv5j3ovj4a1.jpg"
     },
     {
       "id": "48",
       "email": "OmarNavarretePonce@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/14.jpg"
     },
     {
       "id": "49",
       "email": "CeciliaRojoQuiroz@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/image.12327.2992523.jpg"
     },
     {
       "id": "50",
       "email": "DiegoPazAnaya@gmail.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/08k2uujcyzfa1.jpg"
     },
     {
       "id": "51",
@@ -3021,16 +3021,16 @@
       "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
     },
     {
-      "id": "216",
-      "email": "alejandro.torres@riwi.io.com",
-      "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "email": "",
+      "password": "",
+      "img": "",
+      "id": "216"
     },
     {
       "id": "217",
       "email": "liliana.rivas@riwi.io.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/ufxv12m5szja1.jpg"
     },
     {
       "id": "218",
@@ -3042,34 +3042,41 @@
       "id": "219",
       "email": "alejandra.ruiz@riwi.io.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/bfz012e4xi2a1.jpg"
     },
     {
       "id": "220",
       "email": "ronald.lopez@riwi.io.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/avatar-1142ff7c1012530aa8da871173acccac.jpg"
     },
     {
       "id": "221",
       "email": "javier.martin@riwi.io.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/thispersondoesnotexist-33.jpg"
     },
     {
       "id": "222",
       "email": "maurici.canada@riwi.io.com",
       "password": "12345678",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/46.jpg"
     },
     {
       "id": "223",
       "email": "admin@riwi.io.com",
       "password": "789456123",
-      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/uvglersjmw1a1.jpg"
     }
   ],
   "coders": [
+    {
+      "id_user": 1,
+      "id_clan": "Clan",
+      "name": "",
+      "document": "",
+      "id": "1"
+    },
     {
       "id": "2",
       "id_user": 2,
@@ -3111,14 +3118,10 @@
       "status": true
     },
     {
-      "id": "6",
-      "id_user": 6,
-      "id_clan": 1,
-      "name": "Leonardo Sánchez González",
+      "id_clan": "1",
+      "name": "Hola Sánchez González",
       "document": "1000000006",
-      "date_created": "19/01/2024",
-      "date_retirement": "null",
-      "status": true
+      "id": "6"
     },
     {
       "id": "7",
@@ -3131,14 +3134,11 @@
       "status": true
     },
     {
-      "id": "8",
       "id_user": 8,
-      "id_clan": 1,
-      "name": "Sebastián Álvarez Jiménez",
+      "id_clan": "1",
+      "name": "Juan Álvarez Jiménez",
       "document": "1000000008",
-      "date_created": "19/01/2024",
-      "date_retirement": "null",
-      "status": true
+      "id": "8"
     },
     {
       "id": "9",
