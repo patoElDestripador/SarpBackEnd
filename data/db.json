@@ -1656,7 +1656,7 @@
       "id_user": 216,
       "id_area": 3,
       "document": "1000000216",
-      "name": "LJuan carrillo",
+      "name": "Juan carrillo",
       "date_created": "25/01/2024",
       "date_retirement": "null",
       "points_available": 20,
@@ -1731,10 +1731,10 @@
   ],
   "users": [
     {
-      "id": "1",
-      "email": "Correo1@gmail.com",
-      "password": "12345678",
-      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
+      "email": "",
+      "password": "",
+      "img": "",
+      "id": "1"
     },
     {
       "id": "2",
@@ -3134,11 +3134,14 @@
       "status": true
     },
     {
+      "id": "8",
       "id_user": 8,
-      "id_clan": "1",
-      "name": "Juan Álvarez Jiménez",
-      "document": "1000000008",
-      "id": "8"
+      "id_clan": 1,
+      "name": "Valentina Ramírez Díaz",
+      "document": "1000000007",
+      "date_created": "19/01/2024",
+      "date_retirement": "null",
+      "status": true
     },
     {
       "id": "9",
