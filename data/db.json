@@ -1731,10 +1731,10 @@
   ],
   "users": [
     {
-      "email": "",
-      "password": "",
-      "img": "",
-      "id": "1"
+      "id": "1",
+      "email": "MateoGarcíaLópez@gmail.com",
+      "password": "12345678",
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
     },
     {
       "id": "2",
@@ -3021,10 +3021,10 @@
       "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
     },
     {
-      "email": "",
-      "password": "",
-      "img": "",
-      "id": "216"
+      "id": "216",
+      "email": "Carlos HernándezdeSoto@gmail.com",
+      "password": "12345678",
+      "img": "https://imgdb.net/storage/uploads/60cd0f9f76145fc6a1fd28332d0c1b9d7918bb5848a5956acec4e5e8cd783267.png"
     },
     {
       "id": "217",
@@ -3071,11 +3071,14 @@
   ],
   "coders": [
     {
+      "id": "1",
       "id_user": 1,
-      "id_clan": "Clan",
-      "name": "",
-      "document": "",
-      "id": "1"
+      "id_clan": 1,
+      "name": "Heidy García López",
+      "document": "1000000001",
+      "date_created": "19/01/2024",
+      "date_retirement": "null",
+      "status": true
     },
     {
       "id": "2",
