@@ -1731,10 +1731,10 @@
   ],
   "users": [
     {
-      "id": "1",
       "email": "MateoGarcíaLópez@gmail.com",
       "password": "12345678",
-      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg",
+      "id": "1"
     },
     {
       "id": "2",
@@ -3071,14 +3071,11 @@
   ],
   "coders": [
     {
-      "id": "1",
       "id_user": 1,
-      "id_clan": 1,
+      "id_clan": "1",
       "name": "Heidy García López",
       "document": "1000000001",
-      "date_created": "19/01/2024",
-      "date_retirement": "null",
-      "status": true
+      "id": "1"
     },
     {
       "id": "2",
@@ -5264,7 +5261,7 @@
     },
     {
       "id": "5",
-      "id_coders": 35,
+      "id_coders": 5,
       "id_trainers": 2,
       "positive_point": 3,
       "negative_point": "null",
