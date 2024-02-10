@@ -1737,10 +1737,10 @@
       "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
     },
     {
-      "id": "2",
       "email": "MateoGarcíaLópez@gmail.com",
       "password": "12345678",
-      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg"
+      "img": "http://www.marketingtool.online/en/face-generator/img/faces/qq3qh3xbo56a1.jpg",
+      "id": "2"
     },
     {
       "id": "3",
@@ -3071,14 +3071,11 @@
   ],
   "coders": [
     {
-      "id": "1",
       "id_user": 2,
-      "id_clan": 1,
+      "id_clan": "1",
       "name": "Mateo García López",
       "document": "1000000002",
-      "date_created": "19/01/2024",
-      "date_retirement": "null",
-      "status": true
+      "id": "1"
     },
     {
       "id": "2",
@@ -5425,6 +5422,16 @@
       "date_created": "22/01/2024",
       "specific_reason": "uso de celular en clase",
       "observation": "se le ve usando el celular en repetidas ocaciones",
+      "status": true
+    },
+    {
+      "id": "d523",
+      "id_coders": "17",
+      "id_trainers": "223",
+      "positive_point": "",
+      "negative_point": null,
+      "date_created": "09/02/2024",
+      "specific_reason": "Seleciona una opción",
       "status": true
     }
   ]
